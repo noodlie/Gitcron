@@ -5,6 +5,4 @@ Also adds aliases if you would like to backup on your own.
 
 Work in progress.
 
-To-do:
- 	Create rsyncbackup.sh
- 	Create gitbackup.sh
+To-do: create rsyncbackup.sh and gitbackup.sh
